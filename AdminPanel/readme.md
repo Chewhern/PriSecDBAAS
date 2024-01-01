@@ -1,2 +1,2 @@
 # Note
-This adminpanel will be using AvaloniaUI to support multiple operating system. 
+This admin panel will be using AvaloniaUI to support multiple operating system. 
