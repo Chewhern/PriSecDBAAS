@@ -15,7 +15,7 @@
     <PackageReference Include="Avalonia" Version="$(AvaloniaVersion)" />
     <PackageReference Include="Avalonia.Themes.Fluent" Version="$(AvaloniaVersion)" />
     <PackageReference Include="Avalonia.Fonts.Inter" Version="$(AvaloniaVersion)" />
-    <PackageReference Include="BCASodium" Version="0.1.3" />
+    <PackageReference Include="BCASodium" Version="0.1.4" />
     <PackageReference Include="BouncyCastle.Cryptography" Version="2.2.1" />
     <PackageReference Include="CommunityToolkit.Mvvm" Version="8.2.0" />
 
