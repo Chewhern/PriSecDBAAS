@@ -2,6 +2,11 @@
 This changelog will only be responsible for the reworked version of the old PriSecDBAPI. The non reworked and reworked versino of PriSecDBAPI, kindly understand that, the provider holds no private key to decrypt
 the content within the client's database. The private key will be generated and stored only on client's device.
 
+I am quite busy, overall functionality of the reworked PriSecDBAPI have been tested but thorough testing wasn't been done. Just expect the reworked version
+may have bugs.
+
+Wiki is also on the way.
+
 ## Server App
 
 ### Version 0.0.1
