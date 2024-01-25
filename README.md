@@ -4,8 +4,9 @@ This repository will be used as a new PriSecDBAPI repository for the newly rewor
 I will put some source code here whenever it's proven to have no bugs or issues.
 The descriptions and things that I written in PriSecDBAPI will be rewritten here if I have time.
 
-
 Temporary Server IP Address for reworked PriSecDBAPI: https://zeroaccesssecuritysolutions.com:5002/api/
+
+**For details in reworked PriSecAPI, kindly go to the changelog.**
 
 ## Problem Statements
 1. DBAAS does not have any encryption to begin with.
